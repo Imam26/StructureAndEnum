@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe.config
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.exe
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\bin\Debug\StructureAndEnum.pdb
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.exe
+C:\Users\Ильяс Сабитов\source\StructureAndEnum\StructureAndEnum\obj\Debug\StructureAndEnum.pdb
